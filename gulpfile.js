@@ -8,19 +8,6 @@ const autoprefixer = require('gulp-autoprefixer');
 const less = require('gulp-less');
 const rename = require("gulp-rename");
 const imagemin = require('gulp-imagemin');
-//const htmlv = require(' gulp-html-validator '); 
-/*
-gulp.task('valid', function () {
-  gulp.src('valid.html')
-    .pipe(htmlv())
-    .pipe(gulp.dest('./out'));
-});
-
-gulp.task('invalid', function () {
-  gulp.src('invalid.html')
-    .pipe(htmlv({ format: 'html' }))
-    .pipe(gulp.dest('./out'));
-});*/
  
 gulp.task('less', function () {
   gulp.src('./assets/less/*.less')
