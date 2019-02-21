@@ -1159,7 +1159,7 @@ body {
 @media (min-width: 1910px) {
   .reviews .img-1 {
     position: absolute;
-    top: 250px;
+    top: 150px;
     left: 52%;
     width: 565px;
     height: 275px;
@@ -1168,14 +1168,14 @@ body {
   }
   .reviews .img-2 {
     position: absolute;
-    top: 400px;
-    left: 51.5%;
+    top: 290px;
+    left: 52.5%;
     width: 561px;
     height: 171px;
     background: url(../img/memorial/airplane-shadow.png);
     background-repeat: no-repeat;
   }
-  .reviews .img-3 {
+  /*.reviews .img-3 {
     position: absolute;
     top: 590px;
     left: 0;
@@ -1187,8 +1187,8 @@ body {
   }
   .reviews .img-4 {
     position: absolute;
-    top: 538px;
-    right: 398px;
+    top: 448px;
+    right: 383px;
     width: 202px;
     height: 207px;
     background: url(../img/memorial/shape-2.png);
@@ -1197,10 +1197,10 @@ body {
   .reviews .img-5 {
     position: absolute;
     bottom: 643px;
-    right: 5px;
+    right: -25px;
     width: 388px;
     height: 838px;
     background: url(../img/memorial/shape-3.png);
     background-repeat: no-repeat;
-  }
+  }*/
 }
